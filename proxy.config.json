@@ -1,0 +1,6 @@
+{
+  "/photo": {
+    "target": "https://api.travelphotography.cn",
+    "secure": false
+  }
+}
